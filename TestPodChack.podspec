@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   'My very first test'
                        DESC
 
-  s.homepage         = 'https://github.com/Dmitrii Zorin/TestPodChack'
+  s.homepage         = 'https://github.com/Chak675/TestPodChack.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Dmitrii Zorin' => 'zchakiz@gmail.com' }
-  s.source           = { :git => 'https://github.com/Dmitrii Zorin/TestPodChack.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Chak675/TestPodChack.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '15.0'
